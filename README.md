@@ -5,10 +5,11 @@ My goal is to create a version of [ChatGPT](https://www.chatgpt.com) or at least
 As said I want it to work on most pcs as a **<ins>.exe</ins>** file and as some mobile versions like **<ins>.apk</ins>** and **<ins>.ipa</ins>** but I will also upload the **<ins>raw python file</ins>** so people can improve it.
 
 ## Installation process
+
 ### The .exe file
 This is definitly the easiest way to install my project on your computer. You just have to download the OffGPT.exe file and run it by double clicking on it. And you're done! <ins>**But Note that this only works for Windows computers, i dont know if this works on mac computers.**</ins>
 ### Raw python file
-First first download the python file and go to the [**<ins>official python download website</ins>**](https://www.python.org/downloads/) to download python. After installing python press windows + r and type cmd if you have a windows computer. After pressing enter or ok you will land in a window where you can type code, now you have to type cd + your downlooad folder, it should look similar to this:
+First first download the python file and go to the [**<ins>official python download website</ins>**](https://www.python.org/downloads/) to download python. After installing python install [**<ins>CUDA</ins>**](https://developer.nvidia.com/cuda-downloads), then press windows + r and type cmd if you have a windows computer. After pressing enter or ok you will land in a window where you can type code, now you have to type cd + your downlooad folder, it should look similar to this:
 
 ```python
 cd Downloads
